@@ -1,7 +1,7 @@
 {
   "name": "com.rlabrecque.steamworks.net",
   "displayName": "Steamworks.NET",
-  "version": "20.1.0",
+  "version": "20.1.1",
   "unity": "2019.4",
   "author": {
     "name": "Riley Labrecque",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net"
+    "url": "git+https://github.com/pipliz/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net"
   },
   "keywords": [
     "steam",
